@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>green_ball - Copy.png</file>
+        <file>red_ball - Copy.png</file>
+        <file>blue_ball - Copy.png</file>
+        <file>yellow - Copy.png</file>
+        <file>cancelationCross.png</file>
+        <file>green_kill.png</file>
+        <file>joker_ball.png</file>
+        <file>red_kill.png</file>
+        <file>yellow_kill.png</file>
+        <file>blue_kill.png</file>
+    </qresource>
+</RCC>
